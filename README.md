@@ -14,5 +14,5 @@ Estou sempre em busca de aprender mais e desenvolver projetos que me ajudem a cr
 
 ## 📊 GitHub Status:
 
-![Camily's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilyB&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilyB&layout=pie)](https://github.com/CamilyB/github-readme-stats)
+![Camily's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilyB&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilyB&layout=compact)
